@@ -1,0 +1,19 @@
+Introduction
+This project provides a step-by-step guide to creating an Amazon EC2 (Elastic Compute Cloud) instance using the AWS Management Console. It walks you through each stage of the process so that anyone — even without prior AWS experience — can follow along and successfully launch their own virtual server in the cloud.
+You’ll learn how to set up a web-server development environment on AWS, configure key settings, and understand the deliverables involved. The guide also includes troubleshooting tips for common issues, ensuring a smooth and repeatable experience when creating EC2 instances.
+By the end, you’ll have a fully functional cloud-based virtual server ready for development and testing.
+
+What I Learned
+How to navigate and use the AWS Management Console
+
+
+How to create and configure an EC2 instance
+
+
+How to connect to your server using SSH and HTTP
+
+
+How to monitor, manage, and terminate instances
+
+
+How to troubleshoot common EC2 issues
