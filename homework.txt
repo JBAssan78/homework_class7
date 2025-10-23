@@ -16,4 +16,4 @@ How to connect to your server using SSH and HTTP
 How to monitor, manage, and terminate instances
 
 
-How to troubleshoot common EC2 issues
+How to troubleshoot common EC2 issues.
