@@ -1,0 +1,3 @@
+Week 3 notes AWS/Github Repo
+
+This will be the start of using Github for reference and knowledge of how to use it for cloud training and documentation.
