@@ -1,3 +1,16 @@
-Week 3 notes AWS/Github Repo
+I do not know or understand how to add images yet to my laptop.
 
-This will be the start of using Github for reference and knowledge of how to use it for cloud training and documentation.
+********************************************************************************************
+
+Making a New repository in GitHub
+
+Press (New) button to name the repo. When done skip all the other instruction on the screen and press (Create Repository) 
+
+echo "# 9.23.25_class7_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JBAssan78/9.23.25_class7_1.git
+git push -u origin main
+
