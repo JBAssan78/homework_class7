@@ -64,6 +64,8 @@ Then click on (instances) which should be the first word you see when you scroll
 
 Click on “Launch instances” you will be directed to a set up screen, from here fill in the need information name and tag and key pair for login if you have one (the key pair is optional)
 
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/f3ae7fdd935e3d59b0558544509966dc71b28e09/Screenshot%20(949).png)
+
 Scroll down to “Network Settings” and look for (firewall “security group”). Click on select existing security group, you will see the security group you made earlier as an option choose it and go to advanced details.
 
 Click on “advanced detail” scroll all the way down to where it says user data. This is where you put your information that will appear once your instance is complete (exp code), Click the orange button to Launch instance to be re-directed to the next page for confirmation.
