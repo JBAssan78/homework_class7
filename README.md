@@ -1,4 +1,5 @@
-Introduction
+**Running a AWS Server**
+
 
 This project provides a step-by-step guide to creating an Amazon EC2 (Elastic Compute Cloud) instance using the AWS Management Console. It walks you through each stage of the process so that anyone — even without prior AWS experience — can follow along and successfully launch their own virtual server in the cloud.
 
@@ -53,5 +54,7 @@ Do the same operation for inbounds SSH, Anywhere ipv4
 
 Scroll down and click on “create security group” which should be on your right hand side. 
 Once it’s done you will be directed to another screen confirming your security group has been set up.
+
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/e5ff56f8353cfc360bdd7a95c81b4ea6b9f13e4b/Screenshot%20(948).png)
 
 
