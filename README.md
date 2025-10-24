@@ -37,5 +37,5 @@ Step 2
 With sign in completed you should be on the AWS console home page, to make sure you did
 look for your credentials that should be on your upper right hand side.
 
-![image_alt]()
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/1e5bf7e9a757c4002ced9f32c2962fc1af0e219d/Screenshot%20(955).png)
 
