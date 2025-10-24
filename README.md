@@ -18,7 +18,7 @@ How to deploy a basic web server
 
 How to monitor, manage, and terminate instances
 
-Step 1
+**Step 1**
 
 If this is your first time using AWS you must first create an account, verify your email by signing and then go to your AWS management console.
 
@@ -32,10 +32,26 @@ You can also sign in using your root user email. On the AWS sign-in page, click 
 
 ![image_alt](https://github.com/JBAssan78/homework_class7/blob/edb0e3e05b7438bdebfc794de2f9a2692e1e9ba6/Screenshot%20(953).png)
 
-Step 2
+**Step 2**
  
 With sign in completed you should be on the AWS console home page, to make sure you did
 look for your credentials that should be on your upper right hand side.
 
 ![image_alt](https://github.com/JBAssan78/homework_class7/blob/1e5bf7e9a757c4002ced9f32c2962fc1af0e219d/Screenshot%20(955).png)
+
+
+**Step 3**
+
+In the search box on your left hand side type in EC2 and pick (EC2 virtual servers in cloud).
+From the EC2 page look at the bar menu on your left hand side, scroll down to Network & 
+Security and click on security groups.
+
+On the security group page , select “create security group” which you will see on your right hand side. Fill in the basic details (name, description). Select inbounds HTTP, Anywhere IPv4. 
+Do the same operation for inbounds SSH, Anywhere ipv4
+
+**DO NOT TOUCH OUTBOUND FOR ANY REASON WHAT SO EVER!!!**
+
+Scroll down and click on “create security group” which should be on your right hand side. 
+Once it’s done you will be directed to another screen confirming your security group has been set up.
+
 
