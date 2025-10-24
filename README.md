@@ -30,7 +30,7 @@ Second sign in option
 
 You can also sign in using your root user email. On the AWS sign-in page, click the option “Sign in using root user email” — this will display two sign-in options: Root user and IAM user. Select the appropriate option for your account, click Next, and then enter your credentials to sign in.
 
-![image_alt]()
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/6ed4af4b56b8ac78a680f361891770926df54a61/Screenshot%20(954).png)
 
 
 
