@@ -32,5 +32,10 @@ You can also sign in using your root user email. On the AWS sign-in page, click 
 
 ![image_alt](https://github.com/JBAssan78/homework_class7/blob/edb0e3e05b7438bdebfc794de2f9a2692e1e9ba6/Screenshot%20(953).png)
 
+Step 2
+ 
+With sign in completed you should be on the AWS console home page, to make sure you did
+look for your credentials that should be on your upper right hand side.
 
+![image_alt]()
 
