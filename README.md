@@ -24,7 +24,13 @@ If this is your first time using AWS you must first create an account, verify yo
 
 Sign into AWS management console, click on “sign into console”. This will bring you to your IAM user sign in page. Fill in your account ID, IAM username and password and press enter.
 
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/0acd6bc1c5c973738d14912117ab29c1cc5a2e1b/Screenshot%20(954).png)
+
 Second sign in option
+
 You can also sign in using your root user email. On the AWS sign-in page, click the option “Sign in using root user email” — this will display two sign-in options: Root user and IAM user. Select the appropriate option for your account, click Next, and then enter your credentials to sign in.
 
-![image_alt](https://github.com/JBAssan78/homework_class7/blob/0acd6bc1c5c973738d14912117ab29c1cc5a2e1b/Screenshot%20(954).png)
+![image_alt]()
+
+
+
