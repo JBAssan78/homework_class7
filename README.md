@@ -68,7 +68,7 @@ Scroll down to “Network Settings” and look for (firewall “security group�
 
 Click on “advanced detail” scroll all the way down to where it says user data. This is where you put your information that will appear once your instance is complete (exp code), Click the orange button to Launch instance to be re-directed to the next page for confirmation.
 
-
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/fdcc52f68a5891ce1370b68d1949f2b322ff4d12/Screenshot%20(950).png)
 
 
 
