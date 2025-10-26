@@ -75,5 +75,7 @@ Click on “advanced detail” scroll all the way down to where it says user dat
 **Step 5**
 Now that you're all set up we can check a couple of things , you’ll be given an instance summary for the server that you've set up. It will be a series of numbers starting with I-XXXXXXXXXX. Look for where it says “Public DNS, here is where we will start the server.
 
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/d4155db74d44512a5b627139c845c82554dc7a5b/Screenshot%20(957).png)
+
 
 
