@@ -79,5 +79,5 @@ Now that you're all set up we can check a couple of things , you’ll be given a
 
 Now all we have to do from here is copy the DNS into the web browser. Type into the HTTP:// and you will see your work is done.
 
-
+![image_alt](https://github.com/JBAssan78/homework_class7/blob/c494df8b95d9ceac1ca1414634cf4352fee612b6/Screenshot%20(951).png)
 
