@@ -77,5 +77,7 @@ Now that you're all set up we can check a couple of things , you’ll be given a
 
 ![image_alt](https://github.com/JBAssan78/homework_class7/blob/d4155db74d44512a5b627139c845c82554dc7a5b/Screenshot%20(957).png)
 
+Now all we have to do from here is copy the DNS into the web browser. Type into the HTTP:// and you will see your work is done.
+
 
 
